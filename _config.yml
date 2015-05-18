@@ -1,17 +1,20 @@
 # Site settings
-title: Clean Blog
+title: Benoit VALLON
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+email: benoitvallon@gmail.com
+description: "Freelance web developer, lover of JS and all new stuff #flux #reactjs #docker... Co-founder and prev. CTO @pageyourself, involved in @AllOverSequins"
+baseurl: ""
+url: "http://benoitvallon.github.io"
+twitter_username: benoitvallon
+github_username:  benoitvallon
+facebook_username:  benoitvallon
 
 # Build settings
-markdown: kramdown
-highlighter: pygments
+markdown: redcarpet # kramdown/redcarpet
+
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
+
 permalink: pretty
 paginate: 5
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

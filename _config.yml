@@ -11,7 +11,7 @@ facebook_username:
 linkedin_username: benoitvallon
 
 disqus: benoitvallon
-google_analytics: UA-63129957-1
+google_analytics: #UA-63129957-1
 
 # Build settings
 markdown: redcarpet # kramdown/redcarpet

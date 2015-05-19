@@ -6,8 +6,9 @@ description: "Freelance web developer, lover of JS and all new stuff #flux #reac
 baseurl: ""
 url: "http://benoitvallon.github.io"
 twitter_username: benoitvallon
-github_username:  benoitvallon
-facebook_username:  benoitvallon
+github_username: benoitvallon
+facebook_username:
+linkedin_username: benoitvallon
 
 # Build settings
 markdown: redcarpet # kramdown/redcarpet

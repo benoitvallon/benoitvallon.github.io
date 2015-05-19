@@ -11,6 +11,14 @@ layout: default
                     <h1>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</h1>
                     <hr class="small">
                     <span class="subheading">{{ page.description }}</span>
+                    <hr class="small">
+                    <div class="social-icons">
+                        <a class="icon-twitter" href="https://twitter.com/{{ site.twitter_username }}"><i class="fa fa-twitter"></i></a>
+                        &nbsp;
+                        <a class="icon-github" href="https://github.com/{{ site.github_username }}"><i class="fa fa-github"></i></a>
+                        &nbsp;
+                        <a class="icon-linkedin" href="https://www.linkedin.com/in/{{ site.linkedin_username }}"><i class="fa fa-linkedin"></i></a>
+                    </div>
                 </div>
             </div>
         </div>

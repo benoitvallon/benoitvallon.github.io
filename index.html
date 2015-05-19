@@ -14,7 +14,12 @@ description: "Freelance web developer, lover of JS and all new stuff #flux #reac
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Posted on {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta">
+        Posted on {{ post.date | date: "%B %-d, %Y" }}
+        {% for category in post.categories %}
+            <span class="meta-category"><a href="/category/{{ category | slugify }}/">[{{ category | replace:'-', ' '}}]</a></span>
+        {% endfor %}
+    </p>
 </div>
 <hr>
 {% endfor %}

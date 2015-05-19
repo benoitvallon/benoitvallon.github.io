@@ -1,0 +1,7 @@
+# Site settings
+url: "http://localhost:4000"
+
+disqus: #benoitvallon
+google_analytics: #UA-63129957-1
+google:
+  webmaster-tools: #code goes here

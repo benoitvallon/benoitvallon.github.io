@@ -5,7 +5,9 @@
   list-style: none;
 }
 .share-buttons li {
-    display: inline-block;
+  display: inline-block;
+  margin: 3px 10px 3px 0;
+  float: left;
 }
 .share-buttons a:link,
 .share-buttons a:visited,
@@ -14,17 +16,17 @@
   padding: 10px 20px;
   text-decoration: none;
   text-transform: uppercase;
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   font-family: "PT Sans Narrow",sans-serif;
   font-weight: 700;
   color: #fff;
   opacity: 0.8;
 }
 .share-buttons a:hover {
-    opacity: 1;
+  opacity: 1;
 }
 .share-buttons span {
-    padding-left: 10px;
+  padding-left: 10px;
 }
 .share-buttons .twitter {
   background: #55acee;

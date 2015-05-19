@@ -25,6 +25,6 @@ console.log('Hello New York!');
 
 ## Why this blog?
 
-Quite short for a first post, isn't it? But that the style that I would like to give to this blog. I read a lot of blogs and books about code and I have always felt that they could have been as clear as they are with less talking. I will try to make my posts as clear as I can and limit the talking to focus on code. We are developers indeed.
+Quite short for a first post, isn't it? But that the style that I would like to give to this blog. I read a lot of blogs and books about code and I have always felt that they could have been as clear as they are with less talking. I will try to make my posts as clear as I can and limit the talking to focus on code. We are developers after all.
 
 The following coming soon.

@@ -9,6 +9,10 @@
 
     {% include meta.html %}
 
+    {% if site.google.webmaster-tools %}
+        <meta name="google-site-verification" content="{{ site.google.webmaster-tools }}">
+    {% endif %}
+
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
     <!-- Bootstrap Core CSS -->

@@ -1,10 +1,12 @@
 # Site settings
 title: Benoit VALLON
 header-img: img/home-bg.jpg
-email: benoitvallon@gmail.com
+
 description: "Freelance web developer, lover of JS and all new stuff #flux #reactjs #docker... Co-founder and prev. CTO @pageyourself, involved in @AllOverSequins"
-baseurl: ""
-url: "http://blog.benoitvallon.com"
+
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.benoitvallon.com" # the base hostname & protocol for your site
+
 author: Benoit VALLON
 twitter_username: benoitvallon
 github_username: benoitvallon
@@ -25,6 +27,8 @@ markdown: redcarpet # kramdown/redcarpet
 redcarpet:
   extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
 
-permalink: pretty
+permalink: /:categories/:title/
 paginate: 5
+
+# exclude directories and/or files from the conversion
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

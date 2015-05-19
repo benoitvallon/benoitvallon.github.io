@@ -7,6 +7,7 @@ author:     "Benoit VALLON"
 header-img: "img/post-bg-first-post.jpg"
 comments:   true
 categories: welcome
+tags:       [good, morning]
 ---
 
 # Let's start!

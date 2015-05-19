@@ -5,6 +5,7 @@ subtitle:   "Because everything has a beginning"
 date:       2015-05-18 12:06:00
 author:     "Benoit VALLON"
 header-img: "img/post-bg-first-post.jpg"
+comments:   true
 ---
 
 # Let's start!

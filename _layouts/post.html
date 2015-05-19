@@ -24,11 +24,10 @@ layout: default
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-
-				{{ content }}
-
+                {{ content }}
                 <hr>
-
+                {% if page.share != false %}{% include share.html %}{% endif %}
+                <hr>
                 <ul class="pager">
                     {% if page.previous.url %}
                     <li class="previous">
@@ -41,11 +40,9 @@ layout: default
                     </li>
                     {% endif %}
                 </ul>
-
                 {% if page.comments %}
                     {% include disqus.html %}
                 {% endif %}
-
             </div>
         </div>
     </div>

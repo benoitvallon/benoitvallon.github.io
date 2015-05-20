@@ -3,6 +3,7 @@ layout: page
 title: "About me"
 description: "Freelance web developer, lover of JS and all new stuff #flux #reactjs #docker... Co-founder and prev. CTO @pageyourself, involved in @AllOverSequins"
 header-img: "img/about-bg.jpg"
+header-img-color: rgb(51, 43, 60)
 permalink: /about/
 ---
 

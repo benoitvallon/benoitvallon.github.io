@@ -19,7 +19,8 @@ gravatar: https://avatars3.githubusercontent.com/u/2761144
 disqus: benoitvallon
 google_analytics: UA-63129957-1
 google:
-  webmaster-tools: #code goes here (For this website, the code has been defined in a DSN TXT record)
+  #code goes here (the DSN TXT record does not work here, breaks the redirection to github pages)
+  webmaster-tools: 702z24ksUQH2oG6USnrPutOqAgBgNmvqe8hI9_qgvPk
 
 # Build settings
 markdown: redcarpet # kramdown/redcarpet

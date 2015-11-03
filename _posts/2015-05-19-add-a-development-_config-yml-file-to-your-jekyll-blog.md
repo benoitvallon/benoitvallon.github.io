@@ -4,7 +4,7 @@ title:      "Add a development _config.yml file to your jekyll blog"
 subtitle:   "Your settings are different when programming"
 date:       2015-05-19 19:55:29
 author:     "Benoit VALLON"
-header-img: "/img/add-a-development-_config-yml-file-to-your-jekyll-blog/post-add-a-development-_config-yml-file-to-your-jekyll-blog.jpg"
+header-img: "/img/2015-05-19-add-a-development-_config-yml-file-to-your-jekyll-blog/post-add-a-development-_config-yml-file-to-your-jekyll-blog.jpg"
 comments:   true
 categories: tips
 tags:       [jekyll, config]

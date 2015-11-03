@@ -13,12 +13,16 @@
 
 {% if page.title %}
     <meta property="og:title" content="{{ page.title }}">
+{% else %}
+    <meta property="og:title" content="{{ site.title }}">
 {% endif %}
 
 {% if page.header-img %}
-    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ page.header-img }}" />
+    <meta property="og:image" content="{{ page.header-img | prepend: site.baseurl | prepend: site.url }}}" />
+{% else %}
+    <meta property="og:image" content="{{ site.header-img | prepend: site.baseurl | prepend: site.url }}}" />
 {% endif %}
 
 {% if page.url %}
-    <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
 {% endif %}

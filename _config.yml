@@ -1,6 +1,6 @@
 # Site settings
 title: Ben's Blog
-header-img: img/home-bg.jpg
+header-img: /img/home-bg.jpg
 
 description: "Freelance web developer, lover of JS and all new stuff #flux #reactjs #docker... Co-founder and prev. CTO @pageyourself, involved in @AllOverSequins"
 

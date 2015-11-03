@@ -2,7 +2,7 @@
 layout: page
 title: "Contact me"
 description: "Any questions?"
-header-img: "img/contact-bg.jpg"
+header-img: "/img/contact-bg.jpg"
 header-img-color: rgb(74, 53, 77)
 permalink: /contact/
 ---

@@ -4,7 +4,7 @@ title:      "A mobile, desktop and website app with the same code"
 subtitle:   "React-native, NW and React all together"
 date:       2015-11-03 10:18:23
 author:     "Benoit VALLON"
-header-img: "img/a-mobile-desktop-and-website-app-with-the-same-code/post-a-mobile-desktop-and-website-app-with-the-same-code.jpg"
+header-img: "/img/a-mobile-desktop-and-website-app-with-the-same-code/post-a-mobile-desktop-and-website-app-with-the-same-code.jpg"
 comments:   true
 categories: projects
 tags:       [react, react-native, nw, es6]

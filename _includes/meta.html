@@ -7,8 +7,17 @@
 {% endif %}
 
 <meta name="author" content="{{ site.author }}">
+<meta property="og:site_name" content="{{ site.author }}"/>
 
 {% if page.title %}
     <meta property="og:title" content="{{ page.title }}">
     <meta property="twitter:title" content="{{ page.title }}">
+{% endif %}
+
+{% if page.header-img %}
+    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ page.header-img }}" />
+{% endif %}
+
+{% if page.url %}
+    <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
 {% endif %}

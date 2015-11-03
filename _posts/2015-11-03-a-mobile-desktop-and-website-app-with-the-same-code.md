@@ -85,12 +85,12 @@ Enough text, let's have a some images.
 
 ## Mobile App
 
-![Mobile App](/img/a-mobile-desktop-and-website-app-with-the-same-code/mobile-app.png "Mobile App")
+![Mobile App](/img/2015-11-03-a-mobile-desktop-and-website-app-with-the-same-code/mobile-app.png "Mobile App")
 
 ## Desktop App
 
-![Desktop App](/img/a-mobile-desktop-and-website-app-with-the-same-code/desktop-app.png "Desktop App")
+![Desktop App](/img/2015-11-03-a-mobile-desktop-and-website-app-with-the-same-code/desktop-app.png "Desktop App")
 
 ## Website App
 
-![Website App](/img/a-mobile-desktop-and-website-app-with-the-same-code/website-app.png "Website App")
+![Website App](/img/2015-11-03-a-mobile-desktop-and-website-app-with-the-same-code/website-app.png "Website App")

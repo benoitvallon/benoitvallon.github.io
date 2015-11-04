@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "A mobile, desktop and website app with the same code"
+title:      "A mobile, desktop and website App with the same code"
 subtitle:   "React-native, NW and React all together"
-date:       2015-11-03 10:18:23
+date:       2015-11-03 10:22:23
 author:     "Benoit VALLON"
 header-img: "/img/2015-11-03-a-mobile-desktop-and-website-app-with-the-same-code/post-a-mobile-desktop-and-website-app-with-the-same-code.jpg"
 comments:   true
@@ -12,13 +12,13 @@ tags:       [react, react-native, nw, es6]
 
 # React-native, NW and React, all in one
 
-A few months ago after react-native was released I started to wonder how it would be possible to do a mobile app, desktop app and website app with the same code base. I knew it was possible but I wanted to explore how to do it and what would be the final volume of reused code. So I created the project [react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator).
+A few months ago after react-native was released I started to wonder how it would be possible to do a mobile App, desktop App and website App with the same code base. I knew it was possible but I wanted to explore how to do it and what would be the final volume of reused code. So I created the project [react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator).
 
 This project shows how the source code can be architectured to run on multiple devices. As of now, it is able to run as:
 
-- an iOS app (based on [react-native](https://facebook.github.io/react-native))
-- a desktop app (based on [NW](http://nwjs.io))
-- a website app in any browser (based on [react](https://facebook.github.io/react))
+- an iOS App (based on [react-native](https://facebook.github.io/react-native))
+- a desktop App (based on [NW](http://nwjs.io))
+- a website App in any browser (based on [react](https://facebook.github.io/react))
 
 It is a beautiful calculator with the previous formulae feature based on the design of Robert O'Dowd who kindly authorized me the reuse it. The original design made by Robert was part of his project called "Simplifycation" visible [here](https://dribbble.com/shots/1973851-Simplifycation).
 
@@ -32,10 +32,10 @@ I wanted for this project to use all the tools that I would have used in a produ
 
 Although we are going to run on 3 devices, we only need to create 2 builds. Both entry files for those builds are at the root of the `src` directory.
 
-- `index.ios.js` is the entry file for the iOS app build
-- `index.js` is the entry file for the website app and desktop app build
+- `index.ios.js` is the entry file for the iOS App build
+- `index.js` is the entry file for the website App and desktop App build
 
-The second build for the website app and desktop app is the same because it is possible to reuse the exact same code in both environment.
+The second build for the website App and desktop App is the same because it is possible to reuse the exact same code in both environment.
 
 ## Flux architecture actions/stores
 

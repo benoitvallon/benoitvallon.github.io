@@ -91,41 +91,41 @@ for (var color in colorsAndIndexes) {
 
 /*=> colorsAndIndexes equals:
 [{
-  backgroundColor: "#e8c1f3"
-  borderColor: "#d182e8"
-  indexLte: 300
-  offset: -347.7611940298507
-  opacity: 0.8
+  backgroundColor: "#e8c1f3",
+  borderColor: "#d182e8",
+  indexLte: 300,
+  offset: -347.7611940298507,
+  opacity: 0.8,
 }, {
-  backgroundColor: "#f76454"
-  borderColor: "#f34b38"
-  indexLte: 150
-  offset: -123.88059701492536
-  opacity: 0.7
+  backgroundColor: "#f76454",
+  borderColor: "#f34b38",
+  indexLte: 150,
+  offset: -123.88059701492536,
+  opacity: 0.7,
 }, {
-  backgroundColor: "#f7b854"
-  borderColor: "#f4ac39"
-  indexLte: 100
-  offset: -49.25373134328359
-  opacity: 0.65
+  backgroundColor: "#f7b854",
+  borderColor: "#f4ac39",
+  indexLte: 100,
+  offset: -49.25373134328359,
+  opacity: 0.65,
 }, {
-  backgroundColor: "#f7e654"
-  borderColor: "#f1de37"
-  indexLte: 50
-  offset: 25.373134328358205
-  opacity: 0.6
+  backgroundColor: "#f7e654",
+  borderColor: "#f1de37",
+  indexLte: 50,
+  offset: 25.373134328358205,
+  opacity: 0.6,
 }, {
-  backgroundColor: "#a7ea6b"
-  borderColor: "#9ddd65"
-  indexLte: 20
-  offset: 70.1492537313433
-  opacity: 0.55
+  backgroundColor: "#a7ea6b",
+  borderColor: "#9ddd65",
+  indexLte: 20,
+  offset: 70.1492537313433,
+  opacity: 0.55,
 }, {
-  backgroundColor: "#5dee52"
-  borderColor: "#00e400"
-  indexLte: 0
-  offset: 100
-  opacity: 0.5
+  backgroundColor: "#5dee52",
+  borderColor: "#00e400",
+  indexLte: 0,
+  offset: 100,
+  opacity: 0.5,
 }]
 */
 ```

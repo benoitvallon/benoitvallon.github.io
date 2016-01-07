@@ -11,7 +11,7 @@ tags:       [D3, gradient, tips]
 darkTitle:  true
 ---
 
-# Gradient in D3 Graphs
+# Gradients in D3 Graphs
 
 When I worked on my [Air Colors app](http://www.air-colors.io/) a few months ago I had to implement some D3 graphs with the particularity of having gradients.
 

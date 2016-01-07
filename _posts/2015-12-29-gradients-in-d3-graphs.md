@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Gradients in D3 Graphs"
+title:      "Gradients in D3 graphs"
 subtitle:   "Make nice gradients for your D3 curves and shapes"
 date:       2015-12-29 12:45:57
 author:     "Benoit VALLON"
@@ -11,7 +11,7 @@ tags:       [D3, gradient, tips]
 darkTitle:  true
 ---
 
-# Gradients in D3 Graphs
+# Gradients in D3 graphs
 
 When I worked on my [Air Colors app](http://www.air-colors.io/) a few months ago I had to implement some D3 graphs with the particularity of having gradients.
 

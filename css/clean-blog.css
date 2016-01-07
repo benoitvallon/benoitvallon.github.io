@@ -448,3 +448,6 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #952c15;
 }
+.post-heading.dark-title {
+  color: #404040;
+}

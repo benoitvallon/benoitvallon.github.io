@@ -8,6 +8,7 @@ header-img: "/img/2015-12-29-gradients-in-d3-graphs/post-gradients-in-d3-graphs.
 comments:   true
 categories: tips
 tags:       [D3, gradient, tips]
+darkTitle:  true
 ---
 
 # Gradient in D3 Graphs

@@ -29,7 +29,7 @@ redcarpet:
   extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
 
 permalink: /:categories/:title/
-paginate: 5
+paginate: 10
 
 # exclude directories and/or files from the conversion
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

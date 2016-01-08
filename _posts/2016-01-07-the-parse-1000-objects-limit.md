@@ -12,7 +12,7 @@ tags:       [database, Parse, tips]
 
 # The Parse 1,000 objects limit
 
-If you have worked with Parse recently or in the past, you must be familiar with this limit. As stated in [their documentation](https://www.parse.com/docs/js/guide#performance-limits-and-other-considerations) you can't get more than 1000 objects per request and if you need to retrieve 1,500 objects for example you will need to use paginated queries.
+If you have worked with Parse recently or in the past, you must be familiar with this limit. As stated in [their documentation](https://www.parse.com/docs/js/guide#performance-limits-and-other-considerations) you can't get more than 1,000 objects per request and if you need to retrieve 1,500 objects for example you will need to use paginated queries.
 
 > Queries can only return up to 1,000 objects in a single result set.
 
@@ -20,7 +20,7 @@ Furthermore, even with the pagination you won't be able to retrieve more than 10
 
 ## At [Bubble](http://www.appbubble.co/)
 
-At [Bubble](http://www.appbubble.co/) we have users having more than a 1000 albums so we needed a way to requests their albums efficiently.
+At [Bubble](http://www.appbubble.co/) we have users having more than a 1,000 albums so we needed a way to requests their albums efficiently.
 
 We first decided to host our code in [cloud code](https://www.parse.com/docs/cloudcode/guide) when possible. This allowed us to have a greatly simplified version of the front-end of our stack (the app). Moreover we can now update our "API queries" without having to release a new version of the app which is very convenient to move fast.
 

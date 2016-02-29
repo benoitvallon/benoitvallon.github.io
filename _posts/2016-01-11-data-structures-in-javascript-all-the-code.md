@@ -1,0 +1,25 @@
+---
+layout:     post
+title:      "Data structures in JavaScript, all the code"
+subtitle:   "#data-structures series"
+date:       2016-01-11 17:38:06
+author:     "Benoit VALLON"
+header-img: "/img/2016-01-11-data-structures-in-javascript-all-the-code/post-data-structures-in-javascript-all-the-code.jpg"
+comments:   true
+categories: data-structures-in-javascript
+tags:       [algorithms, data-structures]
+---
+
+{% include_relative data-structures-series/about-the-series.md %}
+
+# Array
+
+More details about [the Array data structure](/data-structures-in-javascript/the-array-data-structure).
+
+{% include_relative data-structures-series/array.md %}
+
+# Hash Table
+
+More details about [the Hash Table data structure](/data-structures-in-javascript/the-hash-table-data-structure).
+
+{% include_relative data-structures-series/hash-table.md %}

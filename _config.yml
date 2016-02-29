@@ -31,7 +31,7 @@ kramdown:
   syntax_highlighter: rouge
 
 permalink: /:categories/:title/
-paginate: 10
+paginate: 20
 
 # exclude directories and/or files from the conversion
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]

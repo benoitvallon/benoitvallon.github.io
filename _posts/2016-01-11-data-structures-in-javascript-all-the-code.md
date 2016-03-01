@@ -23,3 +23,9 @@ More details about [the Array data structure](/data-structures-in-javascript/the
 More details about [the Hash Table data structure](/data-structures-in-javascript/the-hash-table-data-structure).
 
 {% include_relative data-structures-series/hash-table.md %}
+
+# Singly Linked List
+
+More details about [the Singly Linked List data structure](/data-structures-in-javascript/the-singly-linked-list-data-structure).
+
+{% include_relative data-structures-series/singly-linked-list.md %}

@@ -19,7 +19,7 @@ tags:       [algorithms, data-structures]
 - [&nbsp;&nbsp;] Set
 - [x] [Singly Linked List](/data-structures-in-javascript/the-singly-linked-list-data-structure)
 - [x] [Doubly Linked List](/data-structures-in-javascript/the-doubly-linked-list-data-structure)
-- [&nbsp;&nbsp;] Stack
+- [x] [Stack](/data-structures-in-javascript/the-stack-data-structure)
 - [&nbsp;&nbsp;] Queue
 - [&nbsp;&nbsp;] Tree
 - [&nbsp;&nbsp;] Binary Search Tree

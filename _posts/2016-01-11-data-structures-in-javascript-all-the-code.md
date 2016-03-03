@@ -35,3 +35,9 @@ More details about [the Singly Linked List data structure](/data-structures-in-j
 More details about [the Doubly Linked List data structure](/data-structures-in-javascript/the-doubly-linked-list-data-structure).
 
 {% include_relative data-structures-series/doubly-linked-list.md %}
+
+# Stack
+
+More details about [the Stack data structure](/data-structures-in-javascript/the-stack-data-structure).
+
+{% include_relative data-structures-series/stack.md %}

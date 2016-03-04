@@ -41,3 +41,9 @@ More details about [the Doubly Linked List data structure](/data-structures-in-j
 More details about [the Stack data structure](/data-structures-in-javascript/the-stack-data-structure).
 
 {% include_relative data-structures-series/stack.md %}
+
+# Queue
+
+More details about [the Queue data structure](/data-structures-in-javascript/the-queue-data-structure).
+
+{% include_relative data-structures-series/queue.md %}

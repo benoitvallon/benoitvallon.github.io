@@ -47,3 +47,9 @@ More details about [the Stack data structure](/data-structures-in-javascript/the
 More details about [the Queue data structure](/data-structures-in-javascript/the-queue-data-structure).
 
 {% include_relative data-structures-series/queue.md %}
+
+# Binary Search Tree
+
+More details about [the Binary Search Tree data structure](/data-structures-in-javascript/the-binary-search-tree-data-structure).
+
+{% include_relative data-structures-series/binary-search-tree.md %}

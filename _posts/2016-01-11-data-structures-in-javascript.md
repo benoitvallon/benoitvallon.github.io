@@ -16,7 +16,7 @@ tags:       [algorithms, data-structures]
 
 - [x] [Array](/data-structures-in-javascript/the-array-data-structure)
 - [x] [Hash Table](/data-structures-in-javascript/the-hash-table-data-structure)
-- [&nbsp;&nbsp;] Set
+- [x] [Set](/data-structures-in-javascript/the-set-data-structure)
 - [x] [Singly Linked List](/data-structures-in-javascript/the-singly-linked-list-data-structure)
 - [x] [Doubly Linked List](/data-structures-in-javascript/the-doubly-linked-list-data-structure)
 - [x] [Stack](/data-structures-in-javascript/the-stack-data-structure)

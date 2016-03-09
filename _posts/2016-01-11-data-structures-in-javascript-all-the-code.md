@@ -24,6 +24,12 @@ More details about [the Hash Table data structure](/data-structures-in-javascrip
 
 {% include_relative data-structures-series/hash-table.md %}
 
+# Set
+
+More details about [the Set data structure](/data-structures-in-javascript/the-set-data-structure).
+
+{% include_relative data-structures-series/set.md %}
+
 # Singly Linked List
 
 More details about [the Singly Linked List data structure](/data-structures-in-javascript/the-singly-linked-list-data-structure).

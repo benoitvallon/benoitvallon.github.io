@@ -26,7 +26,7 @@ Arrays are among the oldest and most important data structures and are used by e
 Average ||||
 --- | --- | --- | ---
 Access|Search|Insertion|Deletion
-O(1) | O(n) | O(n) | O(n)
+O(1) | O(n) | O(1) | O(n)
 
 To get a full overview of the time and space complexity of the Array data structure, have a look to this excellent [Big O cheat sheet](http://bigocheatsheet.com/).
 

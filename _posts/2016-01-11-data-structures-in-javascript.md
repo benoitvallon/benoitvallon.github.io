@@ -21,7 +21,7 @@ tags:       [algorithms, data-structures]
 - [x] [Doubly Linked List](/data-structures-in-javascript/the-doubly-linked-list-data-structure)
 - [x] [Stack](/data-structures-in-javascript/the-stack-data-structure)
 - [x] [Queue](/data-structures-in-javascript/the-queue-data-structure)
-- [&nbsp;&nbsp;] Tree
+- [x] [Tree](/data-structures-in-javascript/the-tree-data-structure)
 - [x] [Binary Search Tree](/data-structures-in-javascript/the-binary-search-tree-data-structure)
 - [x] [Trie](/data-structures-in-javascript/the-trie-data-structure)
 - [&nbsp;&nbsp;] Graph

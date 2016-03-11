@@ -28,16 +28,24 @@ layout: default
                 <hr>
                 {% if page.share != false %}{% include share.html %}{% endif %}
                 <hr>
-                <!-- <div class="related-posts">
+                <div class="related-posts">
                     <div class="related-posts-heading">Hungry for more?</div>
                     <ul>
                     {% for related in site.related_posts %}
                     {% if forloop.index < 6 %}
-                       <li><a class="post-link" href="{{ related.url | prepend: site.baseurl }}">{{ related.title }}</a><span class="related-category">{{ related.categories | array_to_sentence_string | replace:'-',' ' }}</span></li>
+                        <li>
+                            <a class="post-link" href="{{ related.url | prepend: site.baseurl }}">{{ related.title }}</a>
+                             in
+                            {% for category in related.categories %}
+                            <span class="related-category">
+                                <a href="/category/{{ category | slugify }}/">{{ category | replace:'-', ' '}}</a>
+                            </span>
+                            {% endfor %}
+                        </li>
                     {% endif %}
                     {% endfor %}
                     </ul>
-                </div> -->
+                </div>
                 {% if page.comments %}
                     {% include disqus.html %}
                 {% endif %}

@@ -34,8 +34,8 @@ To get a full overview of the time and space complexity of the Binary Search Tre
 
 The height of a node is the length of the longest downward path to a leaf from that node. The depth of a node is the length of the path to its root.
 
-- Height and depth of an empty tree : -1
-- Height and depth of a tree with just a root node : 0
+- Height and depth of an empty tree: -1
+- Height and depth of a tree with just a root node: 0
 - Height of the root is the height of the tree.
 
 ### Full (perfect) and complete

@@ -71,3 +71,9 @@ More details about [the Binary Search Tree data structure](/data-structures-in-j
 More details about [the Trie data structure](/data-structures-in-javascript/the-trie-data-structure).
 
 {% include_relative data-structures-series/trie.md %}
+
+# Graph
+
+More details about [the Graph data structure](/data-structures-in-javascript/the-graph-data-structure).
+
+{% include_relative data-structures-series/graph.md %}

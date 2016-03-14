@@ -24,7 +24,7 @@ tags:       [algorithms, data-structures]
 - [x] [Tree](/data-structures-in-javascript/the-tree-data-structure)
 - [x] [Binary Search Tree](/data-structures-in-javascript/the-binary-search-tree-data-structure)
 - [x] [Trie](/data-structures-in-javascript/the-trie-data-structure)
-- [&nbsp;&nbsp;] Graph
+- [x] [Graph](/data-structures-in-javascript/the-graph-data-structure)
 
 # What is a data structure?
 

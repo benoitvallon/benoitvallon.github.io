@@ -44,10 +44,9 @@ A full Binary Search Tree (sometimes perfect Binary Search Tree) is a tree in wh
 
 ### Edges and nodes
 
-The number of edges equals the height of the tree.
-The number of levels equals the number of edges + 1.
+The height of the tree equals the number of edges between the root and a leaf. The number of levels equals the `height + 1`.
 
-Number of nodes: `2^levels - 1` maximum nodes where `levels = edges + 1`
+Number of nodes: `2^levels - 1` maximum nodes where `levels = height + 1` where `height = edges-between-root-and-leaf`
 
 - 1 edge, 2 levels => `2^2 - 1 = 3` nodes N \| NN
 - 2 edges, 3 levels => `2^3 - 1 = 7` nodes N \| NN \| NN NN

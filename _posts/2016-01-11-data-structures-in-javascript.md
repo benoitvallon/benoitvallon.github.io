@@ -35,17 +35,17 @@ Instead of trying to re-explain what a data structure is, I prefer to leave you 
 
 "used efficiently" here means that according to your needs. You may need for example an organizing structure that allows very fast lookup or it could be very fast insertion or any thing related to your application.
 
-The key thing to remember is that each data structure has it own advantages and disadvantages. There isn't any one of them that would beat all of the others, that the reason why it is important to know them all.
+The key thing to remember is that each data structure has it own advantages and disadvantages. There isn't any one of them that would beat all of the others, that's the reason why it is important to know them all.
 
 # The complexity
 
-If you hear about data structure, you will for sure hear about their complexity. As said before every data structure has its own advantages and disadvantages, their complexity can be seen as a way of expressing their own advantages and disadvantages easily according to a specific problem.
+If you hear about data structures, you will for sure hear about their complexity. As said before every data structure has its own advantages and disadvantages, their complexity can be seen as a way of expressing their own advantages and disadvantages easily according to a specific problem.
 
 The complexity is expressed on 2 axes, the space and the time.
 
 ## The space
 
-The space complexity represents the memory consumption of a data structure. As for most of the things in life, you can't have it all, so it is with the data structure. You will generally need to trade some time for space or the other way around.
+The space complexity represents the memory consumption of a data structure. As for most of the things in life, you can't have it all, so it is with the data structures. You will generally need to trade some time for space or the other way around.
 
 ## The time
 
@@ -65,7 +65,7 @@ Something that data structure and algorithms have in common when talking about t
 
 ## The big O notation
 
-The complexity is usually expressed with the [Big O notation](https://en.wikipedia.org/wiki/Big_O_notation). The wikipedia page about this subject is pretty complex but you can find here a good summary of the [different complexity for the most famous data structure and algorithms](http://bigocheatsheet.com/).
+The complexity is usually expressed with the [Big O notation](https://en.wikipedia.org/wiki/Big_O_notation). The wikipedia page about this subject is pretty complex but you can find here a good summary of the [different complexity for the most famous data structure and sorting algorithms](http://bigocheatsheet.com/).
 
 ![Big O notation cheat sheets](/img/2016-01-11-data-structures-in-javascript/big-o.png "Big O notation cheat sheets")
 ![Big O notation cheat sheets](/img/2016-01-11-data-structures-in-javascript/big-o-complexity.png "Big O notation cheat sheets")

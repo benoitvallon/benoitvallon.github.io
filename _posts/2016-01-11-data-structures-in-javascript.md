@@ -65,7 +65,7 @@ Something that data structure and algorithms have in common when talking about t
 
 ## The big O notation
 
-The complexity is usually expressed with the [Big O notation](https://en.wikipedia.org/wiki/Big_O_notation). The wikipedia page about this subject is pretty complex but you can find here a good summary of the [different complexity for the most famous data structure and sorting algorithms](http://bigocheatsheet.com/).
+The complexity is usually expressed with the [Big O notation](https://en.wikipedia.org/wiki/Big_O_notation). The wikipedia page about this subject is pretty complex but you can find here a good summary of the [different complexity for the most famous data structures and sorting algorithms](http://bigocheatsheet.com/).
 
 ![Big O notation cheat sheets](/img/2016-01-11-data-structures-in-javascript/big-o.png "Big O notation cheat sheets")
 ![Big O notation cheat sheets](/img/2016-01-11-data-structures-in-javascript/big-o-complexity.png "Big O notation cheat sheets")

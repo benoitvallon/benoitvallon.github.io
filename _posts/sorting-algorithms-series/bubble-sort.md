@@ -21,7 +21,7 @@ function bubbleSortBasic(array) {
   return array
 }
 
-console.log(bubbleSortBasic(array)); // => [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ]
+console.log(bubbleSortBasic(array.slice())); // => [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ]
 
 // correct implementation: this is the usual implementation of the bubble sort algorithm. Some loops execution are avoided if not they are not needed
 function bubbleSort(array) {
@@ -38,5 +38,5 @@ function bubbleSort(array) {
   return array
 }
 
-console.log(bubbleSort(array)); // => [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ]
+console.log(bubbleSort(array.slice())); // => [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ]
 ```

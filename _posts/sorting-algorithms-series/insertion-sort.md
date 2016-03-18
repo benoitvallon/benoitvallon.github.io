@@ -1,6 +1,6 @@
 ```js
 // array to sort
-var array = [9, 2, 5, 6, 4, 3, 7, 10, 1, 8]
+var array = [9, 2, 5, 6, 4, 3, 7, 10, 1, 8];
 
 function insertionSort(array) {
   for(var i = 0; i < array.length; i++) {

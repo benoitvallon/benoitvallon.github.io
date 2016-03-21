@@ -22,6 +22,8 @@ It was an easy and no brain solution that worked for a while but my repository a
 
 This technique can also be used to remove something that you did push in a repository which shouldn't be there. Passwords and API keys are good clients for those mistakes. Sometimes they are pushed inadvertently and of course you should remove them from your repository right away.
 
+As explained [here](https://news.ycombinator.com/item?id=11304190) by SXX, a good practice is also changing these passwords and API keys. Even they won't be visible in the future that doesn't mean that they haven't been seen while you pushed them.
+
 # The steps
 
 ## Only remove from the history

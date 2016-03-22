@@ -17,8 +17,8 @@ tags:       [algorithms, sorting-algorithms]
 - [x] [Bubble sort](/sorting-algorithms-in-javascript/the-bubble-sort-algorithm)
 - [x] [Selection sort](/sorting-algorithms-in-javascript/the-selection-sort-algorithm)
 - [x] [Insertion sort](/sorting-algorithms-in-javascript/the-insertion-sort-algorithm)
-- [&nbsp;&nbsp;] Shellsort
-- [&nbsp;&nbsp;] Mergesort
+- [x] [Shellsort](/sorting-algorithms-in-javascript/the-shellsort-algorithm)
+- [&nbsp;&nbsp;] Merge sort
 - [&nbsp;&nbsp;] Quicksort
 
 # What is a sorting algorithm?

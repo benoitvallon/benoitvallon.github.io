@@ -47,3 +47,15 @@ More details about [the Insertion sort algorithm](/sorting-algorithms-in-javascr
 ### Version with counters
 
 {% include_relative sorting-algorithms-series/insertion-sort-counters.md %}
+
+# Shellsort
+
+More details about [the Shellsort algorithm](/sorting-algorithms-in-javascript/the-shellsort-algorithm).
+
+### Clean version
+
+{% include_relative sorting-algorithms-series/shellsort.md %}
+
+### Version with counters
+
+{% include_relative sorting-algorithms-series/shellsort-counters.md %}

@@ -59,3 +59,15 @@ More details about [the Shellsort algorithm](/sorting-algorithms-in-javascript/t
 ### Version with counters
 
 {% include_relative sorting-algorithms-series/shellsort-counters.md %}
+
+# Merge sort
+
+More details about [the Merge sort algorithm](/sorting-algorithms-in-javascript/the-merge-sort-algorithm).
+
+### Clean version
+
+{% include_relative sorting-algorithms-series/merge-sort.md %}
+
+### Version with counters
+
+{% include_relative sorting-algorithms-series/merge-sort-counters.md %}

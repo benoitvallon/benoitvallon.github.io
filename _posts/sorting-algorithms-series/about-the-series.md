@@ -6,6 +6,8 @@ If you are not familiar with sorting algorithms, a quick introduction and the fu
 
 If you feel comfortable with the concept of each sorting algorithm and only want to see the code, have a look at the summary post of the series. It removes all explanations and contains only the [JavaScript code for all sorting algorithms](/sorting-algorithms-in-javascript/sorting-algorithms-in-javascript-all-the-code) discussed in the series.
 
+## Get the code on Github
+
 Of course, all the code can also be found on Github in the repository [sorting-algorithms-in-javascript](https://github.com/benoitvallon/sorting-algorithms-in-javascript).
 
 ## A good way to compare all of them

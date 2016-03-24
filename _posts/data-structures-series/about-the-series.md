@@ -6,4 +6,6 @@ If you are not familiar with data structures, a quick introduction and the full 
 
 If you feel comfortable with the concept of each data structure and only want to see the code, have a look at the summary post of the series. It removes all explanations and contains only the [JavaScript code for all data structures](/data-structures-in-javascript/data-structures-in-javascript-all-the-code/) discussed in the series.
 
+## Get the code on Github
+
 Of course, all the code can also be found on Github in the repository [data-structures-in-javascript](https://github.com/benoitvallon/data-structures-in-javascript).

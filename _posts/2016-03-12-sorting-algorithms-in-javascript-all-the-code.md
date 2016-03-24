@@ -71,3 +71,15 @@ More details about [the Merge sort algorithm](/sorting-algorithms-in-javascript/
 ### Version with counters
 
 {% include_relative sorting-algorithms-series/merge-sort-counters.md %}
+
+# Quicksort
+
+More details about [the Quicksort algorithm](/sorting-algorithms-in-javascript/the-quicksort-algorithm).
+
+### Clean version
+
+{% include_relative sorting-algorithms-series/quicksort.md %}
+
+### Version with counters
+
+{% include_relative sorting-algorithms-series/quicksort-counters.md %}

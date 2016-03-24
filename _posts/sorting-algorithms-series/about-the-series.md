@@ -8,7 +8,7 @@ If you feel comfortable with the concept of each sorting algorithm and only want
 
 ## Get the code on Github
 
-Of course, all the code can also be found on Github in the repository [sorting-algorithms-in-javascript](https://github.com/benoitvallon/sorting-algorithms-in-javascript).
+Of course, all the code can also be found on Github in the repository [sorting-algorithms-in-javascript](https://github.com/benoitvallon/computer-science-in-javascript/tree/master/sorting-algorithms-in-javascript).
 
 ## A good way to compare all of them
 

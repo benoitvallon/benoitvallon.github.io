@@ -8,4 +8,4 @@ If you feel comfortable with the concept of each data structure and only want to
 
 ## Get the code on Github
 
-Of course, all the code can also be found on Github in the repository [data-structures-in-javascript](https://github.com/benoitvallon/data-structures-in-javascript).
+Of course, all the code can also be found on Github in the repository [data-structures-in-javascript](https://github.com/benoitvallon/computer-science-in-javascript/tree/master/data-structures-in-javascript).

@@ -4,7 +4,9 @@
 @charset "utf-8";
 
 @import "stylesheets/bootstrap";
-@import "cleanblog";
+
+// Custom Theme CSS
+@import "custom";
 
 // Pygments Github CSS
 @import "syntax";

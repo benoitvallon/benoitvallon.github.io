@@ -34,7 +34,7 @@ permalink: /:categories/:title/
 paginate: 20
 
 # exclude directories and/or files from the conversion
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+exclude: [node_modules","Gruntfile.js","package.json","README.md"]
 
 gems:
   - jekyll-sitemap

@@ -26,7 +26,7 @@ Then, to get more confused they add:
 
 > The recommended way to get started using spring-boot in your project is with a dependency management system
 
-Ok, now you are talking about a dependency management system although I just wanted to generate a boilerplate Spring project to start with. This is where you think that you will need to go to the heavy documentation to understand Spring Boot. The good news is that you don't need to.
+Ok, now you are talking about a dependency management system although I just wanted to generate a boilerplate Spring project to start with. This is where you will think that you need to go to the heavy documentation to understand Spring Boot. The good news is that you don't need to.
 
 # So, what is it really?
 

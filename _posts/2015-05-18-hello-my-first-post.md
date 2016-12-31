@@ -16,14 +16,14 @@ Because everything has a beginning and because when you are a developer there is
 
 ```js
 console.log('Hello my first post!');
-//=> Hello my first post!
+// => Hello my first post!
 ```
 
 As new New Yorker for a month and a half now I can't omit this one as well.
 
 ```js
 console.log('Hello New York!');
-//=> Hello New York!
+// => Hello New York!
 ```
 
 # Why this blog?

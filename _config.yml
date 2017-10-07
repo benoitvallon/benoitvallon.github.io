@@ -36,6 +36,6 @@ paginate: 20
 # exclude directories and/or files from the conversion
 exclude: [node_modules","Gruntfile.js","package.json","README.md"]
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate

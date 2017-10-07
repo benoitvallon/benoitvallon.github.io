@@ -19,7 +19,7 @@ layout: default
 <div class="container">
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-          {% assign posts = site.categories.[page.category] %}
+          {% assign posts = site.categories[page.category] %}
           {% for post in posts %}
               <div class="post-preview">
                   <a href="{{ post.url | prepend: site.baseurl }}">

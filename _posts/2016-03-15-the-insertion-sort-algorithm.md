@@ -23,7 +23,7 @@ This algorithm is often compared to how as human we would sort a card game for e
 
 ## Visualization
 
-If you want to have a nice visualization of the algorithm, the [visualgo.net website](http://visualgo.net/sorting.html) is a nice resource. You can play with many parameters and see which part of the algorithm is doing what.
+If you want to have a nice visualization of the algorithm, the [visualgo.net website](https://visualgo.net/en/sorting) is a nice resource. You can play with many parameters and see which part of the algorithm is doing what.
 
 ## Complexity
 

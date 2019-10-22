@@ -18,9 +18,9 @@ If you have worked with Parse recently or in the past, you must be familiar with
 
 Furthermore, even with the pagination you won't be able to retrieve more than 10,000 objects. Hopefully this limit is high enough.
 
-## At [Bubble](http://www.appbubble.co/)
+## At [Bubble](https://www.appbubble.co/#ae2)
 
-At [Bubble](http://www.appbubble.co/) we have users having more than a 1,000 albums so we needed a way to requests their albums efficiently.
+At [Bubble](https://www.appbubble.co/#ae2) we have users having more than a 1,000 albums so we needed a way to requests their albums efficiently.
 
 We first decided to host our code in [cloud code](https://www.parse.com/docs/cloudcode/guide) when possible. This allowed us to have a greatly simplified version of the front-end of our stack (the app). Moreover we can now update our "API queries" without having to release a new version of the app which is very convenient to move fast.
 
@@ -101,7 +101,7 @@ function simpleQuery(query, batchNumber) {
 
 # All the code
 
-Here is all the code. As we did at [Bubble](http://www.appbubble.co/) I strongly advise you to put your code in [cloud code](https://www.parse.com/docs/cloudcode/guide) to gain in performance.
+Here is all the code. As we did at [Bubble](https://www.appbubble.co/#ae2) I strongly advise you to put your code in [cloud code](https://www.parse.com/docs/cloudcode/guide) to gain in performance.
 
 ```js
 function simpleQuery(query, batchNumber) {

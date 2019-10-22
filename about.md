@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About me"
-description: "Freelance web developer, lover of JS and all new stuff #reactjs, #redux, #docker #machinelearning... Co-founder and prev. CTO @pageyourself, involved in @AllOverSequins, @recursecenter alumni"
+description: "Freelance web developer, lover of JS and all new stuff #reactjs, #redux, #docker #machinelearning... Co-founder and CTO @AppBubbleBD, involved in @AllOverSequins, @recursecenter alumni"
 header-img: "/img/about-bg.jpg"
 header-img-color: rgb(53, 59, 57)
 permalink: /about/

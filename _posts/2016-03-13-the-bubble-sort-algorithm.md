@@ -10,6 +10,8 @@ categories: sorting-algorithms-in-javascript
 tags:       [algorithms, sorting, bubble-sort]
 ---
 
+<p></p>
+
 {% include_relative sorting-algorithms-series/about-the-series.md %}
 
 # The Bubble sort algorithm

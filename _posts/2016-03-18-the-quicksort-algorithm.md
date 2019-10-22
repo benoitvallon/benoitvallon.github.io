@@ -10,6 +10,8 @@ categories: sorting-algorithms-in-javascript
 tags:       [algorithms, sorting, quicksort]
 ---
 
+<p></p>
+
 {% include_relative sorting-algorithms-series/about-the-series.md %}
 
 # The Quicksort algorithm

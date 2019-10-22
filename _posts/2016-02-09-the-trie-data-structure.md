@@ -10,6 +10,8 @@ categories: data-structures-in-javascript
 tags:       [algorithms, data-structures, trie]
 ---
 
+<p></p>
+
 {% include_relative data-structures-series/about-the-series.md %}
 
 # The Trie data structure

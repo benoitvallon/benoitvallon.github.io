@@ -10,6 +10,8 @@ categories: data-structures-in-javascript
 tags:       [algorithms, data-structures, binary-search-tree]
 ---
 
+<p></p>
+
 {% include_relative data-structures-series/about-the-series.md %}
 
 # The Binary Search Tree data structure

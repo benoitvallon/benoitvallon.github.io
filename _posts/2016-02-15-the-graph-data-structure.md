@@ -10,6 +10,8 @@ categories: data-structures-in-javascript
 tags:       [algorithms, data-structures, graph]
 ---
 
+<p></p>
+
 {% include_relative data-structures-series/about-the-series.md %}
 
 # The Graph data structure

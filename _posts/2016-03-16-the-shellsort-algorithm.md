@@ -10,6 +10,8 @@ categories: sorting-algorithms-in-javascript
 tags:       [algorithms, sorting, shellsort]
 ---
 
+<p></p>
+
 {% include_relative sorting-algorithms-series/about-the-series.md %}
 
 # The Shellsort algorithm

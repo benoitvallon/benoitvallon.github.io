@@ -5,7 +5,7 @@ header-img: /img/home-bg.jpg
 description: "Freelance web developer, lover of JS and all new stuff #reactjs, #redux, #docker #machinelearning... Co-founder and CTO @AppBubbleBD, involved in @AllOverSequins, @recursecenter alumni"
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.benoitvallon.com" # the base hostname & protocol for your site
+url: "https://blog.benoitvallon.com" # the base hostname & protocol for your site
 
 author: Benoit VALLON
 twitter_username: benoitvallon

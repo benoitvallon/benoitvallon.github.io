@@ -1,6 +1,6 @@
 # Personal blog
 
-It is available at [blog.benoitvallon.com](http://blog.benoitvallon.com)
+It is available at [blog.benoitvallon.com](https://blog.benoitvallon.com)
 
 # Run it locally
 
